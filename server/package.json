@@ -1,0 +1,14 @@
+{
+  "name": "daily4u",
+  "version": "0.8.0",
+  "description": "Back end of Daily4U",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolay Blagoev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
